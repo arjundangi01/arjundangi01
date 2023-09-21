@@ -68,7 +68,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=faisal25dec"
-      alt="faisal25dec"
+      alt="arjun"
   /></a>
 </p>
 

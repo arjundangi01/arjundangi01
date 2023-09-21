@@ -64,10 +64,10 @@
 
 
 ## 🏆 GitHub Trophies
-<p align="left">
+<p align="left"  >
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=arjundangi01"
+      src="https://github-profile-trophy.vercel.app/?username=arjundangi01" 
       alt=""
   /></a>
 </p>

@@ -65,12 +65,15 @@
 
 ## 🏆 GitHub Trophies
 <p align="left"  >
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
+  <a href="https://github.com/arjundangi01/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=arjundangi01" 
       alt=""
   /></a>
 </p>
+
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)

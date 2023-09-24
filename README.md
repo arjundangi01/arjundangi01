@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Arjun Dangi</h1>
+<h1 align="center">Hi  👋 I'm Arjun Dangi</h1>
 <h3 align="center">Aspiring web developer dedicated to mastering the Art of Web Development</h3>
 <img  align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> 
 

@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **HTML CSS JAVASCRIPT JAVA React....**
+- 💬 Ask me about **React Node JAVASCRIPT JAVA....**
 
 - 📫 How to reach me **arjundangi907473@gmail.com**
 
